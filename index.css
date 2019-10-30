@@ -1,0 +1,28 @@
+
+#window {
+    max-width: 1000px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    
+}
+
+.carousel-caption h3{
+    font-size: 2.5em;
+    color: black;
+}
+
+.carousel-caption p{
+    font-size: 1.5em;
+    color: black;
+}
+
+
+#divider {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 1px solid grey;
+}

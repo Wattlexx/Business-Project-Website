@@ -1,0 +1,38 @@
+#window {
+    max-width: 1000px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+#link:link {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+#link:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+#link:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#link:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.page-footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
